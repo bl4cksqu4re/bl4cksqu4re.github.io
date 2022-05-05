@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Чёрный квадрат</title>
+    <link>http://blacksqare.github.io/</link>
+    <description>Recent content on Чёрный квадрат</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 May 2022 08:39:07 +0800</lastBuildDate><atom:link href="http://blacksqare.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>О нас</title>
+      <link>http://blacksqare.github.io/posts/pinned/</link>
+      <pubDate>Thu, 05 May 2022 08:39:07 +0800</pubDate>
+      
+      <guid>http://blacksqare.github.io/posts/pinned/</guid>
+      <description>Чёрный квадрат - это открытое пространство для организации и проведения различных мероприятий, клубов по интересам, концертов, кинопоказов, дискусий свободного и бесплатного обмена знаниями и опытом.
+Это не очередное НКО или творческое пространство (хотя они по своему хороши).
+Мы - самоорганизация на анархистских основах и наша цель сделать его максимально независимым и открытым для участия.
+Каждый кто хочет провести свое мероприятие, организовать встречу или просто провести свое время в спокойной и безопасной обстановке без унылого бюрократического процесса, может рассчитывать на нас.</description>
+    </item>
+    
+    <item>
+      <title>До оплаты аренды не хватает</title>
+      <link>http://blacksqare.github.io/posts/saluton/</link>
+      <pubDate>Thu, 05 May 2022 08:38:31 +0800</pubDate>
+      
+      <guid>http://blacksqare.github.io/posts/saluton/</guid>
+      <description>4021 р</description>
+    </item>
+    
+  </channel>
+</rss>
