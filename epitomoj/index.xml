@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Epitomojs on Чёрный квадрат</title>
+    <link>https://bl4cksqu4re.github.io/epitomoj/</link>
+    <description>Recent content in Epitomojs on Чёрный квадрат</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 09 May 2022 23:26:44 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/epitomoj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Майский дайджест</title>
+      <link>https://bl4cksqu4re.github.io/epitomoj/majo/</link>
+      <pubDate>Mon, 09 May 2022 23:26:44 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/epitomoj/majo/</guid>
+      <description>Майский дайджест мероприятий в Квадрате
+5 мая 18:00 - чаепитие на свободную тему
+6 мая 18:30 - кинопоказ &amp;ldquo;Китаянка&amp;rdquo;. Вольное прочтение романа Достоевского &amp;ldquo;Бесы&amp;rdquo; с несколькими французскими студентами, знакомящихся с идеями одного китайца
+8 мая 15:00 - кинопоказ &amp;ldquo;Ян Палах&amp;rdquo;. Атмосфера Пражской весны и чешское общество в момент вторжения Советского союза в 1968-ом году
+9 мая 15:00 - дискуссия &amp;ldquo;Что нам сделать, чтобы фашизм не вернулся?&amp;rdquo; Поговорим о том, что такое фашизм, обсудим предпосылки в прошлом столетии, есть ли они сейчас, и что нам нужно делать, чтобы он не вернулся?</description>
+    </item>
+    
+  </channel>
+</rss>

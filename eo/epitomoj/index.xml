@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Epitomojs on Nigra kvadrato</title>
+    <link>https://bl4cksqu4re.github.io/eo/epitomoj/</link>
+    <description>Recent content in Epitomojs on Nigra kvadrato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 09 May 2022 23:26:44 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/eo/epitomoj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>maja epitomo</title>
+      <link>https://bl4cksqu4re.github.io/eo/epitomoj/majo/</link>
+      <pubDate>Mon, 09 May 2022 23:26:44 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/eo/epitomoj/majo/</guid>
+      <description>Maja epitomo eventojn pri en Kvadrato
+12 majo 18:00 - tefesto pri libera temo
+13 majo 18:30 - filma projekcio &amp;ldquo;28 tagoj poste&amp;rdquo; - hororo kaj apokalipso en zombi-infestita Anglio
+14 majo 15:00 - anarhia rondo pri temo: Anarhio kaj Ĝuste
+14 majo 19:30 - prelego pri arthistorio: Egon Schille
+15 majo 18:00 - solidareca vespermanĝo en subteno de politikaj kaptitoj
+19 majo 18:00 - tefesto pri libera temo
+20 majo 18:30 - filma projekcio &amp;ldquo;Nigra spegulo&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
