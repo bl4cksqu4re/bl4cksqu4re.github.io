@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Чёрный квадрат</title>
+    <link>https://bl4cksqu4re.github.io/</link>
+    <description>Recent content on Чёрный квадрат</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 04 May 2022 23:15:05 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post</title>
+      <link>https://bl4cksqu4re.github.io/posts/post/</link>
+      <pubDate>Wed, 04 May 2022 23:15:05 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/posts/post/</guid>
+      <description>asd</description>
+    </item>
+    
+    <item>
+      <title>Чаепитие 5 мая</title>
+      <link>https://bl4cksqu4re.github.io/evento/teo/</link>
+      <pubDate>Wed, 04 May 2022 18:00:00 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/evento/teo/</guid>
+      <description>aasd </description>
+    </item>
+    
+  </channel>
+</rss>
