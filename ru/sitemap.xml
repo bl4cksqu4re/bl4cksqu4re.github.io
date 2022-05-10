@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bl4cksqu4re.github.io/evento/</loc>
+    <lastmod>2022-05-10T21:05:31+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/liberavespero/</loc>
+    <lastmod>2022-05-10T21:05:31+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/liberavespero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/liberavespero/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/</loc>
+    <lastmod>2022-05-10T21:05:31+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/"
+                />
+  </url><url>
     <loc>https://bl4cksqu4re.github.io/helpo/</loc>
     <lastmod>2022-05-10T01:51:21+08:00</lastmod>
   </url><url>
@@ -31,19 +70,6 @@
                 href="https://bl4cksqu4re.github.io/instrukcioj/agilo/"
                 />
   </url><url>
-    <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-05-10T00:07:03+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/"
-                />
-  </url><url>
     <loc>https://bl4cksqu4re.github.io/epitomoj/</loc>
     <lastmod>2022-05-09T23:26:44+08:00</lastmod>
     <xhtml:link
@@ -68,19 +94,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/epitomoj/majo/"
-                />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/evento/</loc>
-    <lastmod>2022-05-09T18:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/evento/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/evento/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/teo/</loc>
