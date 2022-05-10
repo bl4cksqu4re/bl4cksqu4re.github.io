@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bl4cksqu4re.github.io/evento/</loc>
-    <lastmod>2022-05-10T21:05:31+08:00</lastmod>
+    <lastmod>2022-05-10T23:40:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/evento/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/sxelle/</loc>
+    <lastmod>2022-05-10T23:40:35+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/sxelle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/sxelle/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/</loc>
+    <lastmod>2022-05-10T23:40:35+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/liberavespero/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/evento/liberavespero/"
-                />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-05-10T21:05:31+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/helpo/</loc>
