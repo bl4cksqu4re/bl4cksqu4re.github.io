@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Чёрный квадрат</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 04 May 2022 23:15:05 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 11:25:48 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Открытие сайта</title>
+      <link>https://bl4cksqu4re.github.io/posts/hello/</link>
+      <pubDate>Wed, 11 May 2022 11:25:48 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/posts/hello/</guid>
+      <description>Всем привет. Мы запускаем наш сайт.
+Он &amp;ldquo;написан&amp;rdquo; на генераторе статических сайто hugo и распологается на гитхабе.
+Возможно чуть позже мы купим домен, но пока что нам нужна ваша помощь с переводом сайта на другие языки (английский). Бывали случаи, когда зарубежные активисты и активистки не знали о существовании нашей инициативы, а если бы и знали, то им было бы супер-сложно найти нас в прямом и переносном смысле.
+Если вы можете оказать помощь с переводом - пишите на нашу почту, или предлагайте изменения в нашем репозитории.</description>
+    </item>
+    
     <item>
       <title>О нас</title>
       <link>https://bl4cksqu4re.github.io/posts/resumo/</link>
