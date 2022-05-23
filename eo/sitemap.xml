@@ -2,6 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bl4cksqu4re.github.io/eo/varoj/libroj/</loc>
+    <lastmod>2022-05-23T09:41:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/varoj/libroj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/varoj/libroj/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/eo/varoj/mangxoj/</loc>
+    <lastmod>2022-05-23T09:41:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/varoj/mangxoj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/varoj/mangxoj/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/eo/</loc>
+    <lastmod>2022-05-23T09:41:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/eo/varoj/</loc>
+    <lastmod>2022-05-23T09:41:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/varoj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/varoj/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/eo/varoj/vestoj/</loc>
+    <lastmod>2022-05-23T09:41:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/varoj/vestoj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/varoj/vestoj/"
+                />
+  </url><url>
     <loc>https://bl4cksqu4re.github.io/eo/evento/</loc>
     <lastmod>2022-05-20T11:14:55+08:00</lastmod>
     <xhtml:link
@@ -13,19 +78,6 @@
                 rel="alternate"
                 hreflang="eo"
                 href="https://bl4cksqu4re.github.io/eo/evento/"
-                />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/eo/</loc>
-    <lastmod>2022-05-20T11:14:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/eo/evento/tagodesolidaro/</loc>

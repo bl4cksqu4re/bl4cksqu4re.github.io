@@ -6,7 +6,28 @@
     <description>Recent content on Чёрный квадрат</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 20 May 2022 11:14:55 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 09:41:12 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Книга №1</title>
+      <link>https://bl4cksqu4re.github.io/varoj/libroj/libro1/</link>
+      <pubDate>Mon, 23 May 2022 09:01:34 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/varoj/libroj/libro1/</guid>
+      <description>Это супер-пупер книга номер 1.
+Вы никогда такую не видели!!!!</description>
+    </item>
+    
+    <item>
+      <title>Одежда №1</title>
+      <link>https://bl4cksqu4re.github.io/varoj/vestoj/vesto1/</link>
+      <pubDate>Mon, 23 May 2022 09:01:34 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/varoj/vestoj/vesto1/</guid>
+      <description>Это новая шляпа из коллекции весна-осень 2022
+Вы никогда такую не видели!!!!
+ОНА МНЕ КАК РАЗ</description>
+    </item>
+    
     <item>
       <title>День солидарности</title>
       <link>https://bl4cksqu4re.github.io/evento/tagodesolidaro/</link>
