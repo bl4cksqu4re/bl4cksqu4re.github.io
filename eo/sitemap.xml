@@ -223,6 +223,18 @@
                 href="https://bl4cksqu4re.github.io/eo/posts/resumo/"
                 />
   </url><url>
+    <loc>https://bl4cksqu4re.github.io/eo/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/archives/"
+                />
+  </url><url>
     <loc>https://bl4cksqu4re.github.io/eo/categories/</loc>
     <xhtml:link
                 rel="alternate"

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bl4cksqu4re.github.io/evento/</loc>
-    <lastmod>2022-05-27T13:00:45+08:00</lastmod>
+    <lastmod>2022-05-30T10:05:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
@@ -15,11 +15,11 @@
                 href="https://bl4cksqu4re.github.io/evento/"
                 />
   </url><url>
-    <loc>https://bl4cksqu4re.github.io/evento/220527filmo/</loc>
-    <lastmod>2022-05-27T13:00:45+08:00</lastmod>
+    <loc>https://bl4cksqu4re.github.io/evento/fm220605/</loc>
+    <lastmod>2022-05-30T10:05:49+08:00</lastmod>
   </url><url>
     <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-05-27T13:00:45+08:00</lastmod>
+    <lastmod>2022-05-30T10:05:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
@@ -30,6 +30,9 @@
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/"
                 />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/220527filmo/</loc>
+    <lastmod>2022-05-27T13:00:45+08:00</lastmod>
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/220529fest/</loc>
     <lastmod>2022-05-24T10:15:30+08:00</lastmod>
@@ -242,6 +245,18 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/posts/resumo/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/archives/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/categories/</loc>
