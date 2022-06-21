@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Книги on Чёрный квадрат</title>
+    <link>https://bl4cksqu4re.github.io/varoj/libroj/</link>
+    <description>Recent content in Книги on Чёрный квадрат</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 23 May 2022 09:41:12 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/varoj/libroj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Книга №1</title>
+      <link>https://bl4cksqu4re.github.io/varoj/libroj/libro1/</link>
+      <pubDate>Mon, 23 May 2022 09:01:34 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/varoj/libroj/libro1/</guid>
+      <description>Это супер-пупер книга номер 1.
+Вы никогда такую не видели!!!!</description>
+    </item>
+    
+  </channel>
+</rss>
