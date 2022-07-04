@@ -2,6 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bl4cksqu4re.github.io/posts/</loc>
+    <lastmod>2022-07-01T10:56:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/posts/20220701-help_us/</loc>
+    <lastmod>2022-07-01T10:56:19+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/</loc>
+    <lastmod>2022-07-01T10:56:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/"
+                />
+  </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/</loc>
     <lastmod>2022-06-29T08:46:37+08:00</lastmod>
     <xhtml:link
@@ -15,21 +44,8 @@
                 href="https://bl4cksqu4re.github.io/evento/"
                 />
   </url><url>
-    <loc>https://bl4cksqu4re.github.io/evento/20220803-filmo/</loc>
+    <loc>https://bl4cksqu4re.github.io/evento/20220703-filmo/</loc>
     <lastmod>2022-06-29T08:46:37+08:00</lastmod>
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-06-29T08:46:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/"
-                />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220629-liberavespero/</loc>
     <lastmod>2022-06-28T08:47:50+08:00</lastmod>
@@ -103,19 +119,6 @@
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220609-filmo/</loc>
     <lastmod>2022-06-09T14:00:05+08:00</lastmod>
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/posts/</loc>
-    <lastmod>2022-06-06T08:24:36+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/posts/"
-                />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/posts/zin/</loc>
     <lastmod>2022-06-06T08:24:36+08:00</lastmod>
