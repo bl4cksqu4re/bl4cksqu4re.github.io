@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bl4cksqu4re.github.io/evento/</loc>
+    <lastmod>2022-07-11T10:22:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/20220714-teofesto/</loc>
+    <lastmod>2022-07-11T10:22:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/20220714-teofesto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/20220714-teofesto/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/</loc>
+    <lastmod>2022-07-11T10:22:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/"
+                />
+  </url><url>
     <loc>https://bl4cksqu4re.github.io/posts/</loc>
     <lastmod>2022-07-01T10:56:19+08:00</lastmod>
     <xhtml:link
@@ -17,32 +56,6 @@
   </url><url>
     <loc>https://bl4cksqu4re.github.io/posts/20220701-help_us/</loc>
     <lastmod>2022-07-01T10:56:19+08:00</lastmod>
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-07-01T10:56:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/"
-                />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/evento/</loc>
-    <lastmod>2022-06-29T08:46:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/evento/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/evento/"
-                />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220703-filmo/</loc>
     <lastmod>2022-06-29T08:46:37+08:00</lastmod>
