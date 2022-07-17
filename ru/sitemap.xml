@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bl4cksqu4re.github.io/evento/</loc>
-    <lastmod>2022-07-12T14:39:25+08:00</lastmod>
+    <lastmod>2022-07-17T14:17:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
@@ -14,6 +14,43 @@
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/evento/"
                 />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/20220721-teofesto/</loc>
+    <lastmod>2022-07-17T14:17:28+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/</loc>
+    <lastmod>2022-07-17T14:17:28+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/varoj/libroj/anarcxonesedjes/</loc>
+    <lastmod>2022-07-17T13:38:55+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/varoj/libroj/sokrat/</loc>
+    <lastmod>2022-07-17T13:38:55+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/varoj/libroj/potencokajkorpo/</loc>
+    <lastmod>2022-07-17T13:38:55+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/varoj/libroj/libertarianistokielkonservativulo/</loc>
+    <lastmod>2022-07-17T13:38:55+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/varoj/libroj/unapresejodepopolovolo/</loc>
+    <lastmod>2022-07-17T13:38:55+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/varoj/libroj/laboroemancipigi/</loc>
+    <lastmod>2022-07-17T13:38:55+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/varoj/libroj/feminizmpor99/</loc>
+    <lastmod>2022-07-17T13:38:55+08:00</lastmod>
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220713-liberavespero/</loc>
     <lastmod>2022-07-12T14:39:25+08:00</lastmod>
@@ -26,19 +63,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/evento/20220713-liberavespero/"
-                />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-07-12T14:39:25+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220714-teofesto/</loc>
@@ -231,9 +255,6 @@
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/varoj/vestoj/"
                 />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/varoj/libroj/libro1/</loc>
-    <lastmod>2022-05-23T09:01:34+08:00</lastmod>
   </url><url>
     <loc>https://bl4cksqu4re.github.io/varoj/vestoj/vesto1/</loc>
     <lastmod>2022-05-23T09:01:34+08:00</lastmod>
