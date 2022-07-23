@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bl4cksqu4re.github.io/evento/</loc>
-    <lastmod>2022-07-17T14:17:28+08:00</lastmod>
+    <lastmod>2022-07-23T14:26:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
@@ -15,11 +15,11 @@
                 href="https://bl4cksqu4re.github.io/evento/"
                 />
   </url><url>
-    <loc>https://bl4cksqu4re.github.io/evento/20220721-teofesto/</loc>
-    <lastmod>2022-07-17T14:17:28+08:00</lastmod>
+    <loc>https://bl4cksqu4re.github.io/evento/20220723-vangog/</loc>
+    <lastmod>2022-07-23T14:26:50+08:00</lastmod>
   </url><url>
     <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-07-17T14:17:28+08:00</lastmod>
+    <lastmod>2022-07-23T14:26:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
@@ -30,6 +30,25 @@
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/"
                 />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/20220723-siberiokielkooperativo/</loc>
+    <lastmod>2022-07-22T15:54:50+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/20220724-neuronodiverseco/</loc>
+    <lastmod>2022-07-22T13:12:45+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/20220724-neuronodiverseco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/20220724-neuronodiverseco/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/20220721-teofesto/</loc>
+    <lastmod>2022-07-17T14:17:28+08:00</lastmod>
   </url><url>
     <loc>https://bl4cksqu4re.github.io/varoj/libroj/anarcxonesedjes/</loc>
     <lastmod>2022-07-17T13:38:55+08:00</lastmod>
@@ -51,6 +70,12 @@
   </url><url>
     <loc>https://bl4cksqu4re.github.io/varoj/libroj/feminizmpor99/</loc>
     <lastmod>2022-07-17T13:38:55+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/revuoj/</loc>
+    <lastmod>2022-07-14T16:27:51+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/revuoj/majo/</loc>
+    <lastmod>2022-07-14T16:27:14+08:00</lastmod>
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220713-liberavespero/</loc>
     <lastmod>2022-07-12T14:39:25+08:00</lastmod>

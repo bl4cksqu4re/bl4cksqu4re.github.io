@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Зин on Чёрный квадрат</title>
+    <link>https://bl4cksqu4re.github.io/revuoj/</link>
+    <description>Recent content in Зин on Чёрный квадрат</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 14 Jul 2022 16:27:51 +0800</lastBuildDate><atom:link href="https://bl4cksqu4re.github.io/revuoj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Майский зин</title>
+      <link>https://bl4cksqu4re.github.io/revuoj/majo/</link>
+      <pubDate>Thu, 14 Jul 2022 16:27:14 +0800</pubDate>
+      
+      <guid>https://bl4cksqu4re.github.io/revuoj/majo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
