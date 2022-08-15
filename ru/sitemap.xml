@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bl4cksqu4re.github.io/epitomoj/</loc>
+    <lastmod>2022-08-15T13:41:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/epitomoj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/epitomoj/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/</loc>
+    <lastmod>2022-08-15T13:41:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/epitomoj/202208-augusto/</loc>
+    <lastmod>2022-08-15T13:41:41+08:00</lastmod>
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/</loc>
+    <lastmod>2022-08-15T13:29:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/20220818-teofesto/</loc>
+    <lastmod>2022-08-15T13:29:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/20220818-teofesto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/20220818-teofesto/"
+                />
+  </url><url>
     <loc>https://bl4cksqu4re.github.io/posts/</loc>
     <lastmod>2022-08-01T11:59:01+08:00</lastmod>
     <xhtml:link
@@ -17,32 +72,6 @@
   </url><url>
     <loc>https://bl4cksqu4re.github.io/posts/20220801-festo/</loc>
     <lastmod>2022-08-01T11:59:01+08:00</lastmod>
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-08-01T11:59:01+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/"
-                />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/evento/</loc>
-    <lastmod>2022-07-27T14:19:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/evento/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/evento/"
-                />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220729-filmo/</loc>
     <lastmod>2022-07-27T14:19:50+08:00</lastmod>
@@ -249,19 +278,6 @@
   </url><url>
     <loc>https://bl4cksqu4re.github.io/posts/zin/</loc>
     <lastmod>2022-06-06T08:24:36+08:00</lastmod>
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/epitomoj/</loc>
-    <lastmod>2022-06-05T23:26:44+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/epitomoj/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/epitomoj/"
-                />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/epitomoj/junio/</loc>
     <lastmod>2022-06-05T23:26:44+08:00</lastmod>
