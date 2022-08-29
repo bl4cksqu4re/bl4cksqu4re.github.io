@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bl4cksqu4re.github.io/evento/</loc>
-    <lastmod>2022-08-25T13:45:47+08:00</lastmod>
+    <lastmod>2022-08-29T15:37:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/evento/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/evento/20220901-teofesto/</loc>
+    <lastmod>2022-08-29T15:37:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/evento/20220901-teofesto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/evento/20220901-teofesto/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/</loc>
+    <lastmod>2022-08-29T15:37:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220828-solidara-vespero/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/evento/20220828-solidara-vespero/"
-                />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/</loc>
-    <lastmod>2022-08-25T13:45:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220819-espero/</loc>
