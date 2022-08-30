@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bl4cksqu4re.github.io/posts/resumo/</loc>
+    <lastmod>2022-05-04T23:15:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://bl4cksqu4re.github.io/eo/posts/resumo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bl4cksqu4re.github.io/posts/resumo/"
+                />
+  </url><url>
+    <loc>https://bl4cksqu4re.github.io/epitomoj/202208-augusto/</loc>
+    <lastmod>2022-08-15T13:41:41+08:00</lastmod>
+  </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/</loc>
     <lastmod>2022-08-30T12:40:16+08:00</lastmod>
     <xhtml:link
@@ -92,9 +108,6 @@
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/epitomoj/"
                 />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/epitomoj/202208-augusto/</loc>
-    <lastmod>2022-08-15T13:41:41+08:00</lastmod>
   </url><url>
     <loc>https://bl4cksqu4re.github.io/evento/20220818-teofesto/</loc>
     <lastmod>2022-08-15T13:29:37+08:00</lastmod>
@@ -515,19 +528,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://bl4cksqu4re.github.io/evento/teo/"
-                />
-  </url><url>
-    <loc>https://bl4cksqu4re.github.io/posts/resumo/</loc>
-    <lastmod>2022-05-04T23:15:05+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="https://bl4cksqu4re.github.io/eo/posts/resumo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bl4cksqu4re.github.io/posts/resumo/"
                 />
   </url><url>
     <loc>https://bl4cksqu4re.github.io/archives/</loc>
